@@ -1,7 +1,7 @@
 import json
 
 def loadFile():
-    file = open("./english_words/2018_05_24.json","r",encoding="utf-8")
+    file = open("./english_words/2018_05_25.json","r",encoding="utf-8")
     jsonFile = json.load(file)
     i = 0
     total = len(jsonFile)
