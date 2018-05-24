@@ -5,8 +5,10 @@
   "chase":"追逐 追捕",
   "court":"法院 球场",
   "flat":"平坦 单调",
+  "curve":"曲线",
   "helicopter":"直升机",
-  "hydroegen":"氢气",
+  "continuous":"连续不断的",
+  "hydrogen":"氢气",
   "lift":"举起 提升",
   "melt":"溶解 熔化",
   "mount":"爬上 增加",
@@ -36,5 +38,6 @@
   "salty":"咸的",
   "soil":"土壤",
   "thick":"厚的 粗大的",
-  "volume":"体积 音量"
+  "volume":"体积 音量",
+  "stylish":"时髦的 流行的"
 }
